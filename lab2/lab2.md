@@ -43,6 +43,7 @@ Date of finished: 20.03.2023 <br/>
 ![image](https://user-images.githubusercontent.com/60888284/226297748-37a982a7-3211-4e4e-ba09-c41fc080420c.png)
 
 7. Созданы VLAN порты на коммутаторе для взаимодействия коммутатора с маршрутизатором и подключены IP телефоны, также задан маршрут по умолчанию 
+
 ![image](https://user-images.githubusercontent.com/60888284/226298121-cb0b932f-a038-42d3-b41a-afb0747fa432.png)
 ![image](https://user-images.githubusercontent.com/60888284/226298137-3b2290ff-38ed-4f07-8b18-361d63e33093.png)
 ![image](https://user-images.githubusercontent.com/60888284/226298524-2edd0cb4-4915-4c11-bc73-8706b93f0412.png)
